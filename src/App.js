@@ -8,10 +8,6 @@ function App() {
     <div className="container WeatherApp">
       <div className="border">
         <Form />
-        <h1>London</h1>
-        <h6>Last updated: Sunday, 18:50</h6>
-        <WeatherData />
-
         <div id="insert-forecast"></div>
       </div>
       <Footer />
