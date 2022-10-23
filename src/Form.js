@@ -91,6 +91,7 @@ export default function Form() {
           />
         </div>
         <div className="col-10">
+          <div className="description">{description}</div>
           <div className="text">
             Temperature: {Math.round(temp)}
             <span id="current-temp"></span>

@@ -1,6 +1,5 @@
 import "./App.css";
 import Form from "./Form";
-import WeatherData from "./WeatherData";
 import Footer from "./Footer";
 
 function App() {
