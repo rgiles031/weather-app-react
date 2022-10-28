@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="container WeatherApp">
       <div className="border">
-        <Form />
+        <Form defaultCity="London" />
         <div id="insert-forecast"></div>
       </div>
       <Footer />
