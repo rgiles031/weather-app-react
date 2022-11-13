@@ -1,4 +1,4 @@
-import Axios from "axios";
+import React from "react";
 
 export default function ForecastData(props) {
   function formatDay() {
